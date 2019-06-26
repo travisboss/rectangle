@@ -14,4 +14,5 @@ fn main() {
 
 fn area(rectangle: &Rectangle) -> u32 {
     rectangle.width * rectangle.height
+
 }
